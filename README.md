@@ -1,9 +1,5 @@
 # WP-BOX
 
-Closed
-![](https://i.hizliresim.com/dTyaQQ.png)
-
-Opened
 ![](https://i.hizliresim.com/0wc4Vt.png)
 
 ### Add WP-TOOL to your site within 5 seconds and receive messages from WhatsApp.
